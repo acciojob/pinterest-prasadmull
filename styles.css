@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+.hero{
+	display:flex;
+	width:100%;
+}
+#img{
+	width:75%;
+}
